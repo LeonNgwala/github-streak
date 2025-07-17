@@ -12,8 +12,8 @@ python github_streak_checker.py
 ```
 
 ### Example Output
-
+```
 Current GitHub Streak: 6 day(s)
-
+```
 
 Built to stay accountable, stay consistent, and keep that green calendar alive.
